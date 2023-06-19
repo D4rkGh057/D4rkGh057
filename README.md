@@ -40,7 +40,10 @@ Hello! I'm Daniel Fuelpaz, a 21-year-old software engineering student
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=d4rkgh057&layout=compact&hide=HTML,CSS)](https://github.com/anuraghazragithub-readme-stats)
 
+
 ## Graphs
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=d4rkgh057&show_icons=true&theme=radical)
 
 ![Graphs2](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=d4rkgh057&theme=github_dark)
 
