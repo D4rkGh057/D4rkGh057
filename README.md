@@ -38,7 +38,7 @@ Hello! I'm Daniel Fuelpaz, a 21-year-old software engineering student
 
 ## Top Languages
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=d4rkgh057&layout=compact&langs_count=4&hide=HTML,CSS)](https://github.com/anuraghazragithub-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=d4rkgh057&layout=compact&hide=HTML,CSS)](https://github.com/anuraghazragithub-readme-stats)
 
 ## Graphs
 
