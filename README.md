@@ -4,7 +4,7 @@ Hello! I'm Daniel Fuelpaz, a 22-year-old software engineering student
 
 ## About Me
 
-- I am currently studying at the Technical University of Ambato in the 4th semester of software engineering.
+- I am currently studying at the Technical University of Ambato in the 6th semester of software engineering.
 - I enjoy learning about different software development concepts and technologies.
 - I am currently learning about mobile,web and game development.
 
