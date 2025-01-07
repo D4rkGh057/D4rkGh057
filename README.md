@@ -1,6 +1,6 @@
 # Hi there 👋, I am Daniel
 
-Hello! I'm Daniel Fuelpaz, a 22-year-old software engineering student
+Hello! I'm Daniel Fuelpaz, a 23-year-old software engineering student
 
 ## About Me
 
