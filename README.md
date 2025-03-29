@@ -63,9 +63,3 @@ Hello! I'm Daniel Fuelpaz, a 23-year-old software engineering student
 | [@badilleins](https://github.com/badilleins)| [@G4TO](https://github.com/CarlosAl21)| [@ArielTonato](https://github.com/ArielTonato)| [@ThomXasG](https://github.com/ThomXasG)|
 | --- | --- | --- | --- |
 | ![badiIcon](https://avatars.githubusercontent.com/u/72108507?s=150) | ![G4t0](https://avatars.githubusercontent.com/u/108234879?s=155&v=1) | <img src="https://avatars.githubusercontent.com/u/121694409?s=150&v=1" width="150"> | ![ThomXasG](https://avatars.githubusercontent.com/u/129432152?s=155&v=1) |
-
-###
-
-<img src="https://raw.githubusercontent.com/D4rkGh057/D4rkGh057/output/snake.svg" alt="Snake animation" />
-
-###
