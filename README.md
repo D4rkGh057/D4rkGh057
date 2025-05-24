@@ -60,6 +60,6 @@ Hello! I'm Daniel Fuelpaz, a 23-year-old software engineering student
 
 ## Partners
 
-| [@badilleins](https://github.com/badilleins)| [@G4TO](https://github.com/CarlosAl21)| [@ArielTonato](https://github.com/ArielTonato)| [@ThomXasG](https://github.com/ThomXasG)|
-| --- | --- | --- | --- |
-| ![badiIcon](https://avatars.githubusercontent.com/u/72108507?s=150) | ![G4t0](https://avatars.githubusercontent.com/u/108234879?s=155&v=1) | <img src="https://avatars.githubusercontent.com/u/121694409?s=150&v=1" width="150"> | ![ThomXasG](https://avatars.githubusercontent.com/u/129432152?s=155&v=1) |
+| [@badilleins](https://github.com/badilleins) | [@G4TO](https://github.com/CarlosAl21) | [@ArielTonato](https://github.com/ArielTonato) | [@FelixMF](https://github.com/FelixMF) |
+|-------------|-------------|-------------|-------------|
+| <img src="https://avatars.githubusercontent.com/u/72108507?s=150" width="150" alt="badiIcon"> | <img src="https://avatars.githubusercontent.com/u/108234879?s=155&v=1" width="150" alt="G4t0"> | <img src="https://avatars.githubusercontent.com/u/121694409?s=150&v=1" width="150" alt="ArielTonato"> | <img src="https://avatars.githubusercontent.com/u/105674487?s=150" width="150" alt="FelixMF"> |
