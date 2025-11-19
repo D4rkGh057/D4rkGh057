@@ -1,7 +1,6 @@
 
 # Hi there 👋, I am Daniel 
 Hello! I'm Daniel Fuelpaz, a 23-year-old software engineering student
-![D4rkGh057's Github Profile Views](https://komarev.com/ghpvc/?username=d4rkgh057&color=blueviolet)
 ## About Me
 
 - I am currently studying at the Technical University of Ambato in the 8th semester of software engineering.
