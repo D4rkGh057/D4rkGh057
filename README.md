@@ -54,12 +54,14 @@ Hello! I'm Daniel Fuelpaz, a 23-year-old software engineering student
 ### 📚 Academic Projects
 
 - [**Sistema de Gestión de Proyectos**](https://github.com/DanielFuelpaz/Proyecto1erParcialED.git)
-- [**Sambi**](https://github.com/D4rkGh057/sambi)
 - [**PKDX Web**](https://github.com/D4rkGh057/PokedexWeb)
+
+### 📚 Acade
+- [**Sambi**](https://github.com/D4rkGh057/sambi)
 - [**SmarTramites**](https://github.com/D4rkGh057/frontend_GADMA)
 
 ## Partners
 
-| [@badilleins](https://github.com/badilleins) | [@G4TO](https://github.com/CarlosAl21) | [@ArielTonato](https://github.com/ArielTonato) | [@FelixMF](https://github.com/FelixMF) |
+| [@JosliBlue]([https://github.com/JosliBlue](https://github.com/JosliBlue)) | [@G4TO](https://github.com/CarlosAl21) | [@ArielTonato](https://github.com/ArielTonato) | [@FelixMF](https://github.com/FelixMF) |
 |-------------|-------------|-------------|-------------|
-| <img src="https://avatars.githubusercontent.com/u/72108507?s=150" width="150" alt="badiIcon"> | <img src="https://avatars.githubusercontent.com/u/108234879?s=155&v=1" width="150" alt="G4t0"> | <img src="https://avatars.githubusercontent.com/u/121694409?s=150&v=1" width="150" alt="ArielTonato"> | <img src="https://avatars.githubusercontent.com/u/105674487?s=150" width="150" alt="FelixMF"> |
+| <img src="https://avatars.githubusercontent.com/u/129903903?s=150" width="150" alt="badiIcon"> | <img src="https://avatars.githubusercontent.com/u/108234879?s=155&v=1" width="150" alt="G4t0"> | <img src="https://avatars.githubusercontent.com/u/121694409?s=150&v=1" width="150" alt="ArielTonato"> | <img src="https://avatars.githubusercontent.com/u/105674487?s=150" width="150" alt="FelixMF"> |
