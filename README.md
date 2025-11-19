@@ -54,7 +54,7 @@ Hello! I'm Daniel Fuelpaz, a 23-year-old software engineering student
 ### 📚 Academic Projects
 
 - [**Sistema de Gestión de Proyectos**](https://github.com/DanielFuelpaz/Proyecto1erParcialED.git)
-- [**Sambi**](https://github.com/Ds.git](https://github.com/D4rkGh057/sambi))
+- [**Sambi**](https://github.com/D4rkGh057/sambi)
 - [**PKDX Web**](https://github.com/D4rkGh057/PokedexWeb)
 - [**SmarTramites**](https://github.com/D4rkGh057/frontend_GADMA)
 
