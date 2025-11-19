@@ -62,6 +62,6 @@ Hello! I'm Daniel Fuelpaz, a 23-year-old software engineering student
 
 ## Partners
 
-| [@JosliBlue][(https://github.com/JosliBlue)](https://github.com/JosliBlue) | [@G4TO](https://github.com/CarlosAl21) | [@ArielTonato](https://github.com/ArielTonato) | [@FelixMF](https://github.com/FelixMF) |
+| [@JosliBlue](https://github.com/JosliBlue) | [@G4TO](https://github.com/CarlosAl21) | [@ArielTonato](https://github.com/ArielTonato) | [@FelixMF](https://github.com/FelixMF) |
 |-------------|-------------|-------------|-------------|
 | <img src="https://avatars.githubusercontent.com/u/129903903?s=150" width="150" alt="badiIcon"> | <img src="https://avatars.githubusercontent.com/u/108234879?s=155&v=1" width="150" alt="G4t0"> | <img src="https://avatars.githubusercontent.com/u/121694409?s=150&v=1" width="150" alt="ArielTonato"> | <img src="https://avatars.githubusercontent.com/u/105674487?s=150" width="150" alt="FelixMF"> |
