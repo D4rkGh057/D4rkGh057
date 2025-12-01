@@ -40,7 +40,7 @@ Hello! I'm Daniel Fuelpaz, a 23-year-old software engineering student
 
 ## Top Languages
 
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JosliBlue&theme=github_dark" />
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=d4rkgh057&theme=github_dark" />
 <img align="right" height="150" src="https://i.pinimg.com/originals/d0/22/60/d02260da4290eb3d80e95967e28507bf.gif"  />
 
 ## Graphs
