@@ -48,8 +48,8 @@ Hello! I'm Daniel Fuelpaz, a 23-year-old software engineering student
 
 ## Graphs
 
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=d4rkgh057&theme=github_dark" />
 ![Graphs2](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=d4rkgh057&theme=github_dark)
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=d4rkgh057&theme=github_dark" />
 
 ## Projects
 
