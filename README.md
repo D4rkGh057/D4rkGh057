@@ -1,5 +1,9 @@
 
 # Hi there 👋, I am Daniel 
+<div align="center" style="width: 100%; max-width: 100%;">
+<img align="right" height="150" src="https://i.pinimg.com/originals/d0/22/60/d02260da4290eb3d80e95967e28507bf.gif"  />
+</div>
+  
 Hello! I'm Daniel Fuelpaz, a 23-year-old software engineering student
 ## About Me
 
@@ -41,7 +45,6 @@ Hello! I'm Daniel Fuelpaz, a 23-year-old software engineering student
 ## Top Languages
 
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=d4rkgh057&theme=github_dark" />
-<img align="right" height="150" src="https://i.pinimg.com/originals/d0/22/60/d02260da4290eb3d80e95967e28507bf.gif"  />
 
 ## Graphs
 
