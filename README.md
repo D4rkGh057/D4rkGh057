@@ -20,7 +20,7 @@ Software Engineer specialized in **full-stack web development** with 3+ years of
 - **Specialization:** APIs (GraphQL/REST), microservices, React/React Native and game development
 
 ### 📊 By the numbers
-🚀 **4+** completed projects | 💻 **6+** mastered technologies | 🤝 **4+** active collaborators | 🎓 **8th semester** student
+🚀 **4+** completed projects | 💻 **6+** mastered technologies | 🤝 **4+** active collaborators | 🎓 **9th semester** student
 
 ---
 
